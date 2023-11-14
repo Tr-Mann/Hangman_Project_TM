@@ -1,0 +1,5 @@
+﻿  TristanMann_Hangman_Loops.cpp
+D:\main\Personal\C++_Projects\month_1\TristanMann_Hangman_Loops\TristanMann_Hangman_Loops\TristanMann_Hangman_Loops.cpp(19,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\main\Personal\C++_Projects\month_1\TristanMann_Hangman_Loops\TristanMann_Hangman_Loops\TristanMann_Hangman_Loops.cpp(40,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\main\Personal\C++_Projects\month_1\TristanMann_Hangman_Loops\TristanMann_Hangman_Loops\TristanMann_Hangman_Loops.cpp(98,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TristanMann_Hangman_Loops.vcxproj -> D:\main\Personal\C++_Projects\month_1\TristanMann_Hangman_Loops\x64\Debug\TristanMann_Hangman_Loops.exe
